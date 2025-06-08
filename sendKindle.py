@@ -91,7 +91,7 @@ convert = False'''
         '''Parse the config file. Create a new one if needed.'''
 
         self.create_config()
-        config = configparser.SafeConfigParser()
+        config = configparser.ConfigParser()
         try:
             if not config.read([self.conffile]):
                 raise IOError('%s could not be read' % self.conffile)
