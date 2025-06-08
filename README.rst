@@ -1,19 +1,3 @@
-============
- sendKindle
-============
-
-----
-
-.. image:: http://unmaintained.tech/badge.svg
-  :target: http://unmaintained.tech/
-  :alt: No Maintenance Intended
-
-**sendKindle is no longer maintained!**
-
-If you feel that sendKindle should be resurrected, please fork this project and work on your improvements. I'll gladly redirect people to your new version.
-
-----
-
 CLI tool for sending files via email to your Kindle device.
 
 Running
@@ -52,11 +36,3 @@ If you like this program, please `Flattr it <https://flattr.com/thing/323792/sen
 
 .. image:: http://api.flattr.com/button/flattr-badge-large.png
    :target: https://flattr.com/thing/323792/sendKindle
-
-Contact
-=======
-
-Visit program homepage at:
-https://github.com/kparal/sendKindle
-
-Please report all bugs to the `issue tracker <https://github.com/kparal/sendKindle/issues>`_, but don't request new features unless you have a patch for it. This is a small personal project and I don't plan to spend much more time on it. I will gladly merge your patches if they look reasonable.
